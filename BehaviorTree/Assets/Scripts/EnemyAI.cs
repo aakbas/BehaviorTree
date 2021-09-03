@@ -13,6 +13,8 @@ public class EnemyAI : MonoBehaviour
     [SerializeField] private float shootingRange;
     [SerializeField] private Transform playerTransform;
 
+    private Material material;
+
 
     private float currentHealth
     {
@@ -22,6 +24,7 @@ public class EnemyAI : MonoBehaviour
     void Start()
     {
         currentHealth = startingHealth;
+        material = GetComponent<MeshRenderer>().material;
     }
     void Update()
     {
@@ -32,5 +35,11 @@ public class EnemyAI : MonoBehaviour
     {
         return currentHealth;
     }
+
+    public void SetColor(Color color)
+    {
+        material.color = color;
+    }
+
 
 }
