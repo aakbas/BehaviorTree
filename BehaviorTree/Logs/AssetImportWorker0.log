@@ -383,3 +383,235 @@ Received Import Request.
 Start importing Assets/Scripts/Behavior Trees/Nodes/HealthNode.cs using Guid(a9046dbd5d26a0d4da5600455aa3ca7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2df787a4a2c993c91ed0578cbea4d467') in 0.005283 seconds
   Import took 0.006804 seconds .
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000554 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.671 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1116 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.3 MB.
+System memory in use after: 57.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1596.
+Total: 1.344100 ms (FindLiveObjects: 0.127400 ms CreateObjectMapping: 0.039300 ms MarkObjects: 1.134100 ms  DeleteObjects: 0.042000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 515.802879 seconds.
+  path: Assets/Scripts/Behavior Trees/Nodes/HealthNode.cs
+  artifactKey: Guid(a9046dbd5d26a0d4da5600455aa3ca7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Behavior Trees/Nodes/HealthNode.cs using Guid(a9046dbd5d26a0d4da5600455aa3ca7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b6fe487f2c127d50f3b61536d58808c') in 0.006194 seconds
+  Import took 0.007833 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.342161 seconds.
+  path: Assets/Scripts/Behavior Trees/Nodes/RangeNode.cs
+  artifactKey: Guid(400f0ad48d1113846b6dec48c9603991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Behavior Trees/Nodes/RangeNode.cs using Guid(400f0ad48d1113846b6dec48c9603991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cbd50ec98689a045d298dc62e617d78') in 0.007144 seconds
+  Import took 0.008844 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000783 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.732 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.17 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1117 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.4 MB.
+System memory in use after: 57.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1600.
+Total: 5.412400 ms (FindLiveObjects: 0.360700 ms CreateObjectMapping: 0.121200 ms MarkObjects: 4.792900 ms  DeleteObjects: 0.133700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000532 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.672 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1117 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.4 MB.
+System memory in use after: 57.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1603.
+Total: 1.483500 ms (FindLiveObjects: 0.127200 ms CreateObjectMapping: 0.030900 ms MarkObjects: 1.289200 ms  DeleteObjects: 0.035500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 90.413135 seconds.
+  path: Assets/Scripts/Behavior Trees/Nodes/RangeNode.cs
+  artifactKey: Guid(400f0ad48d1113846b6dec48c9603991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Behavior Trees/Nodes/RangeNode.cs using Guid(400f0ad48d1113846b6dec48c9603991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '396ded191de53ccaa7e931e8ae179654') in 0.013349 seconds
+  Import took 0.019043 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000565 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.670 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1117 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.4 MB.
+System memory in use after: 57.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1606.
+Total: 1.392500 ms (FindLiveObjects: 0.121300 ms CreateObjectMapping: 0.032200 ms MarkObjects: 1.195200 ms  DeleteObjects: 0.042500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 140.035042 seconds.
+  path: Assets/Scripts/Behavior Trees/Nodes/RangeNode.cs
+  artifactKey: Guid(400f0ad48d1113846b6dec48c9603991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Behavior Trees/Nodes/RangeNode.cs using Guid(400f0ad48d1113846b6dec48c9603991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e424b9832624bd1adb9217ede12dff45') in 0.005284 seconds
+  Import took 0.006884 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000478 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.672 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1117 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.4 MB.
+System memory in use after: 57.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1609.
+Total: 1.285800 ms (FindLiveObjects: 0.103600 ms CreateObjectMapping: 0.025400 ms MarkObjects: 1.116200 ms  DeleteObjects: 0.039900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 387.681835 seconds.
+  path: Assets/Scripts/Behavior Trees/Nodes/IsCoveredNode.cs
+  artifactKey: Guid(1162291758192724e84bfeba1b44bff4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Behavior Trees/Nodes/IsCoveredNode.cs using Guid(1162291758192724e84bfeba1b44bff4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '677885e7c7a2268afcf417f1433701cf') in 0.009099 seconds
+  Import took 0.011416 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000507 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.716 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1118 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.5 MB.
+System memory in use after: 57.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1613.
+Total: 1.471900 ms (FindLiveObjects: 0.109400 ms CreateObjectMapping: 0.031500 ms MarkObjects: 1.290800 ms  DeleteObjects: 0.039600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 323.678608 seconds.
+  path: Assets/Scripts/Behavior Trees/Nodes/IsCoveredNode.cs
+  artifactKey: Guid(1162291758192724e84bfeba1b44bff4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Behavior Trees/Nodes/IsCoveredNode.cs using Guid(1162291758192724e84bfeba1b44bff4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e6bbac7e0cd4bf1ebcdf0ef01cf3e04') in 0.006920 seconds
+  Import took 0.009832 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001221 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.682 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1118 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.5 MB.
+System memory in use after: 57.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1616.
+Total: 1.759700 ms (FindLiveObjects: 0.140800 ms CreateObjectMapping: 0.034100 ms MarkObjects: 1.541500 ms  DeleteObjects: 0.042200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.638840 seconds.
+  path: Assets/Scripts/Behavior Trees/Nodes/IsCoveredNode.cs
+  artifactKey: Guid(1162291758192724e84bfeba1b44bff4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Behavior Trees/Nodes/IsCoveredNode.cs using Guid(1162291758192724e84bfeba1b44bff4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bbf5a43e787784684f985bdccdefa95') in 0.006012 seconds
+  Import took 0.007706 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.731469 seconds.
+  path: Assets/Scripts/Behavior Trees/Nodes/ChaseNode.cs
+  artifactKey: Guid(05ddbafb9ab21b44cbaf9e23c0436a35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Behavior Trees/Nodes/ChaseNode.cs using Guid(05ddbafb9ab21b44cbaf9e23c0436a35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '277a973c90d50a7900a73c69198cbf78') in 0.008878 seconds
+  Import took 0.010759 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000467 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.754 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.5 MB.
+System memory in use after: 57.6 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1620.
+Total: 1.380100 ms (FindLiveObjects: 0.120200 ms CreateObjectMapping: 0.043300 ms MarkObjects: 1.175100 ms  DeleteObjects: 0.040400 ms)
+
